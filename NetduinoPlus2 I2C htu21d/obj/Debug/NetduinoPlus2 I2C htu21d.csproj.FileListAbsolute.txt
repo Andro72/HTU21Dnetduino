@@ -1,0 +1,30 @@
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\ResolveAssemblyReference.cache
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\le\NetduinoPlus2 I2C htu21d.exe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\be\NetduinoPlus2 I2C htu21d.exe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\le\NetduinoPlus2 I2C htu21d.pdb
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\be\NetduinoPlus2 I2C htu21d.pdb
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\NetduinoPlus2 I2C htu21d.exe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\NetduinoPlus2 I2C htu21d.pdb
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\le\NetduinoPlus2 I2C htu21d.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\le\NetduinoPlus2 I2C htu21d.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\be\NetduinoPlus2 I2C htu21d.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\be\NetduinoPlus2 I2C htu21d.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\SecretLabs.NETMF.Hardware.dll
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\be\NetduinoPlus2 I2C htu21d.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\be\NetduinoPlus2 I2C htu21d.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\le\NetduinoPlus2 I2C htu21d.pe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\le\NetduinoPlus2 I2C htu21d.pdbx
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\NetduinoPlus2 I2C htu21d.exe
+c:\users\andro\documents\visual studio 2010\Projects\NetduinoPlus2 I2C htu21d\NetduinoPlus2 I2C htu21d\obj\Debug\NetduinoPlus2 I2C htu21d.pdb
